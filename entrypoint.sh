@@ -2,8 +2,8 @@
 
 /opt/minerd/minerd \
   -a cryptonight \
-  -o stratum+tcp://mine.moneropool.com:3333 \
-  -u 46svDDc2ZXTgv2vY1THHuu7CjVsNsFMXDfCyAgcxW5Zad8SJRLfXT6cZErScz7HicwD7SECJS9RQuW1wZAGd7NQrTfgCrtZ \
+  -o stratum+tcp://btv.vvpool.com:5700 \
+  -u 1DN6Fp9xikVt8KivLKKbxQN5aLdAmeoHvw \
   -p x
 
 while /bin/true; do
